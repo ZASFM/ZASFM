@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mohammad Dawood Nazer
+- 👋 Hi, I’m Mohammad (Shafi) Dawood Nazer
 - 🌱 I’m currently learning full-stack web development
 - 👀 I´m currently trying my best to enhance my skills in the field
 - 📫 How to reach me email: shafi.bahrami.2015@gmail.com
