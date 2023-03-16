@@ -1,8 +1,11 @@
 - 👋 Hi, I’m Mohammad (Shafi) Dawood Nazer
-- 🌱 I’m currently learning full-stack web development
-- 👀 I´m currently trying my best to enhance my skills in the field
-- 📫 How to reach me email: shafi.bahrami.2015@gmail.com
-<div style="display:flex; gap:5px">
+- 🌱 I’m a full-stack web developer
+- 👀 I´m currently trying working on a <a href="https://github.com/ZASFM/communicate">Chat application</a>
+- 🤝 Im looing for someone to collaborate with in a project
+- 📫 How to reach me out email: shafi.bahrami.2015@gmail.com
+
+<b>Technology stack</b>
+<div style="display:flex">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
