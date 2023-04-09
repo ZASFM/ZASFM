@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=ZASFM&color=green)
+
 - 👋 Hi, I’m Mohammad (Shafi) Dawood Nazer
 - 🌱 I’m a full-stack web developer
 - 👀 I´m currently trying working on a <a href="https://github.com/ZASFM/communicate">Chat application</a>
