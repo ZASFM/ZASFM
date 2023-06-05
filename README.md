@@ -5,7 +5,7 @@
 
 
 - 👋 Hi, I’m Mohammad (Shafi) Dawood Nazer
-- 🌱 I’m a full-stack web developer
+- 🤓 I’m a full-stack web developer
 - 📫 How to reach me out: shafi.bahrami.2015@gmail.com
 - ❤️ I love working on projects and keep improving my skills
 
